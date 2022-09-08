@@ -4,7 +4,6 @@ namespace App\Repositories;
 
 use App\Models\Vehicle;
 use App\Repositories\Interfaces\IBase;
-use Illuminate\Support\Facades\DB;
 
 class BaseRepository implements IBase
 {
